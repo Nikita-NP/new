@@ -1,1 +1,14 @@
-hii
+set config 
+
+connect with github
+
+create folder on github 
+create file name first.txt
+
+clone this repo/dir
+
+local (git) remote (github)
+local create push on remote
+using flow init add commit push
+
+
